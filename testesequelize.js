@@ -1,4 +1,4 @@
-const Sequelize = require('sequelize')
+/* const Sequelize = require('sequelize')
 const sequelize = new Sequelize('testeseq', 'root', 'novosga', {
     host: 'localhost',
     dialect: 'mysql'
@@ -15,7 +15,7 @@ const sequelize = new Sequelize('testeseq', 'root', 'novosga', {
  */
 
 
- const Postagem = sequelize.define('postagens', {
+/*  const Postagem = sequelize.define('postagens', {
      titulo: {
          type: Sequelize.STRING
      },
@@ -43,6 +43,6 @@ const sequelize = new Sequelize('testeseq', 'root', 'novosga', {
      }
         
      
- })
+ }) */
 
- //Usuario.sync({ force: true })
+ //Usuario.sync({ force: true }) */
